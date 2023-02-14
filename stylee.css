@@ -73,18 +73,21 @@ nav img{
     width: 40%;
     background: #f1f1f1;
  
+ 
   }
   .b1 button{
 
     width: 10px;
+    display:inline-block;
+    text-decoration: none;
+    color:#F0F0F0;
     border: 1px solid #F0F0F0;
-    padding:  5px 40px;
+    padding:  10px 50px;
    border-radius: 10px;
     background:#122242;
     position: relative;
     cursor: pointer;
     margin-top: 3rem;
-
   }
   .btn{
     display:inline-block;
@@ -154,19 +157,19 @@ nav .fa{
 .b1 button{
   left: -90px;
   width: 15%;
-  padding:  1px 10px;
+  padding:  5px 10px;
   right: -3px;
   align-items: center;
   
 }
 .btn {
-font-size: 5px;
+font-size: 10px;
 
 }
 .b1 input{
-  width: 50%;
+  width: 60%;
   font-size: 2%;
-  padding:  2px 20px;
+  padding:  10px 20px;
   align-items: center;
  
 }
